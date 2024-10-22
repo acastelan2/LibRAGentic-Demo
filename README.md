@@ -7,7 +7,7 @@ sdk: docker
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Demo located at https://huggingface.co/spaces/acastelan/LibRAGentic-Demo
 
 
 Welcome to the LibRAGentic Demo!
